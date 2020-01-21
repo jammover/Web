@@ -21,8 +21,16 @@ StringBuilder는 동기화를 보장하지 않는다.
 
 5. NIO(New Input-Out)에 대해 설명하세요.
 
-6. 자바의 기본 자료형과 참조 자료형에 대해 설명해 보세
+6. 자바의 기본 자료형과 참조 자료형에 대해 설명해 보세요.
+
+7. 오버로딩과 오버라이딩의 차이점을 말해보세요.
+
+8.  Call by Value, Call by Reference의 차이는 무엇인가요?
+
+9.  접근제어자에 대해 설명하세요.
+ 
+10. 추상클래스와 인터페이스에 대해 설명하세요 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyODc2NTE1MSwtMTUwNzYwODMyOCw3OT
-EzOTQ3NjMsMTcyOTExNDg3MSw3MzYxNzU0MDldfQ==
+eyJoaXN0b3J5IjpbLTE0MDE5OTcxMTAsLTE1MDc2MDgzMjgsNz
+kxMzk0NzYzLDE3MjkxMTQ4NzEsNzM2MTc1NDA5XX0=
 -->
