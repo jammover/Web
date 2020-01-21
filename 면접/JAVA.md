@@ -30,12 +30,15 @@ StringBuilder는 동기화를 보장하지 않는다.
 
 9.  Call by Value, Call by Reference의 차이는 무엇인가요?
 
-10.  접근제어자에 대해 설명하세요.
+함수호출 방식에는  두가지, Call by Value(값에 의한 호출), Call by Reference(참조에 의한 호출)이 있다.
+
+
+11.  접근제어자에 대해 설명하세요.
  
-11. 추상클래스와 인터페이스에 대해 설명하세요.
+12. 추상클래스와 인터페이스에 대해 설명하세요.
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTc5MDQ2MTMsLTE1NjQ0MDcyNDgsLT
-E1MDc2MDgzMjgsNzkxMzk0NzYzLDE3MjkxMTQ4NzEsNzM2MTc1
-NDA5XX0=
+eyJoaXN0b3J5IjpbLTE4NjgxMjA5NzMsLTE4OTc5MDQ2MTMsLT
+E1NjQ0MDcyNDgsLTE1MDc2MDgzMjgsNzkxMzk0NzYzLDE3Mjkx
+MTQ4NzEsNzM2MTc1NDA5XX0=
 -->
