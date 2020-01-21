@@ -4,7 +4,7 @@
 차이점은 String은 immutable(불변)하고, StringBuilder, StringBuffer는 mutable(가변)하다는 것이다.
 
 String은 new 연산을 통해 생성되면 그 인스턴스의 메모리 공간은 절대 불변!
-그래서 +연산이나 concat을 이용해서 문자열에 변화를 줘도, 새로운 String 객체를 
+그래서 +연산이나 concat을 이용해서 문자열에 변화를 줘도, 새로운 String 객체를 만들어진다.(=새로운 메모리 공간이 만들어진다.)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NjUzNjc1OF19
+eyJoaXN0b3J5IjpbNzM2MTc1NDA5XX0=
 -->
