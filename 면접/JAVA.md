@@ -13,6 +13,13 @@ StringBuilder VS. StringBuffer
 StringBuffer는 멀티쓰레드환경에서 synchronized 키워드가 가능하므로 동기화가 가능하다. 즉, thread-safe하다.
 StringBuilder는 동기화를 보장하지 않는다.
 
+2. 객체지향언의 특징 3가지만 설명해보세요.
+
+추상화, 캡슐화, 상속, 다형성
+
+4. 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyOTExNDg3MSw3MzYxNzU0MDldfQ==
+eyJoaXN0b3J5IjpbNzkxMzk0NzYzLDE3MjkxMTQ4NzEsNzM2MT
+c1NDA5XX0=
 -->
