@@ -24,7 +24,8 @@ StringBuilder는 동기화를 보장하지 않는다.
 6. 자바의 기본 자료형과 참조 자료형에 대해 설명해 보세요.
 
 7. 오버로딩과 오버라이딩의 차이점을 말해보세요.
-오버로딩은
+오버로딩은 메소드는 같은 이름의 메소드를 여러개 가지면서 매개변수의 유형과 개수가 다르도록 하는 기술이고,
+오버라이딩은 상위클래스가 가지고 있ㄴ
 
 8.  Call by Value, Call by Reference의 차이는 무엇인가요?
 
@@ -33,7 +34,7 @@ StringBuilder는 동기화를 보장하지 않는다.
 10. 추상클래스와 인터페이스에 대해 설명하세요.
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MjY5NjQ2MSwtMTU2NDQwNzI0OCwtMT
-UwNzYwODMyOCw3OTEzOTQ3NjMsMTcyOTExNDg3MSw3MzYxNzU0
-MDldfQ==
+eyJoaXN0b3J5IjpbMzU1OTUwNzUyLC0xNTY0NDA3MjQ4LC0xNT
+A3NjA4MzI4LDc5MTM5NDc2MywxNzI5MTE0ODcxLDczNjE3NTQw
+OV19
 -->
