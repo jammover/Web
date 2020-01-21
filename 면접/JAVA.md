@@ -9,9 +9,10 @@ String은 new 연산을 통해 생성되면 그 인스턴스의 메모리 공간
 String의 단점 : 가비지 콜렉터에 의해 제거되어야 한다. & 문자열 연산이 많아질 때 계속 객체를 만드는 오버헤드가 발생한다.
 String의 장점 : 조회연산을 빠르게 할 수 있다. & 불변하기 때문에 멀티쓰레드 환경에서 동기화를 신경쓸 필요가 없다.
 
-StringBuilder VS. StringBuffer
-StringBuffer는 멀티쓰레환경에서 synchronized 키워드가 가능하므로 동기화가 가능하다. 즉, thread-safe하다.
+StringBuilder VS. StringBuffer 
+StringBuffer는 멀티쓰레드환경에서 synchronized 키워드가 가능하므로 동기화가 가능하다. 즉, thread-safe하다.
+StringBuilder는 동기화를 보장하지 않는다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDgwMjA1MzEsNzM2MTc1NDA5XX0=
+eyJoaXN0b3J5IjpbMTcyOTExNDg3MSw3MzYxNzU0MDldfQ==
 -->
