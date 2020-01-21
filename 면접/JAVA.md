@@ -19,7 +19,10 @@ StringBuilder는 동기화를 보장하지 않는다.
 
 4. 객체지향에 대해서 설명해보세요.
 
+5. NIO(New Input-Out)에 대해 설명하세요.
+
+6. 자바의 기본 자료형과 참조 자료형에 대해 설명해 보세
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDc2MDgzMjgsNzkxMzk0NzYzLDE3Mj
-kxMTQ4NzEsNzM2MTc1NDA5XX0=
+eyJoaXN0b3J5IjpbLTYyODc2NTE1MSwtMTUwNzYwODMyOCw3OT
+EzOTQ3NjMsMTcyOTExNDg3MSw3MzYxNzU0MDldfQ==
 -->
