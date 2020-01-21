@@ -17,9 +17,9 @@ StringBuilder는 동기화를 보장하지 않는다.
 
 추상화, 캡슐화, 상속, 다형성
 
-4. 
+4. 객체지향에 대해서 설명해보세요.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkxMzk0NzYzLDE3MjkxMTQ4NzEsNzM2MT
-c1NDA5XX0=
+eyJoaXN0b3J5IjpbLTE1MDc2MDgzMjgsNzkxMzk0NzYzLDE3Mj
+kxMTQ4NzEsNzM2MTc1NDA5XX0=
 -->
