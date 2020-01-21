@@ -24,6 +24,7 @@ StringBuilder는 동기화를 보장하지 않는다.
 6. 자바의 기본 자료형과 참조 자료형에 대해 설명해 보세요.
 
 7. 오버로딩과 오버라이딩의 차이점을 말해보세요.
+오버로딩은
 
 8.  Call by Value, Call by Reference의 차이는 무엇인가요?
 
@@ -32,6 +33,7 @@ StringBuilder는 동기화를 보장하지 않는다.
 10. 추상클래스와 인터페이스에 대해 설명하세요.
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjQ0MDcyNDgsLTE1MDc2MDgzMjgsNz
-kxMzk0NzYzLDE3MjkxMTQ4NzEsNzM2MTc1NDA5XX0=
+eyJoaXN0b3J5IjpbMTM0MjY5NjQ2MSwtMTU2NDQwNzI0OCwtMT
+UwNzYwODMyOCw3OTEzOTQ3NjMsMTcyOTExNDg3MSw3MzYxNzU0
+MDldfQ==
 -->
