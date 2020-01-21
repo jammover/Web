@@ -10,7 +10,8 @@ String의 단점 : 가비지 콜렉터에 의해 제거되어야 한다. & 문�
 String의 장점 : 조회연산을 빠르게 할 수 있다. & 불변하기 때문에 멀티쓰레드 환경에서 동기화를 신경쓸 필요가 없다.
 
 StringBuilder VS. StringBuffer
+StringBuffer는 멀티쓰레환경에서 synchronized 키워드가 가능하므로 동기화가 가능하다. 즉, thread-safe하다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNTY1NDQ2Nyw3MzYxNzU0MDldfQ==
+eyJoaXN0b3J5IjpbLTE3MDgwMjA1MzEsNzM2MTc1NDA5XX0=
 -->
