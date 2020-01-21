@@ -5,6 +5,9 @@
 
 String은 new 연산을 통해 생성되면 그 인스턴스의 메모리 공간은 절대 불변!
 그래서 +연산이나 concat을 이용해서 문자열에 변화를 줘도, 새로운 String 객체를 만들어진다.(=새로운 메모리 공간이 만들어진다.)
+
+String의 단점 : 가비지 콜렉터에 의해 제거되어야 한다 & 계속해서 객체가 만들어지
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM2MTc1NDA5XX0=
+eyJoaXN0b3J5IjpbLTU5MjMyNzg4OSw3MzYxNzU0MDldfQ==
 -->
